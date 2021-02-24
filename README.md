@@ -2,7 +2,7 @@
 <hr>
  Linear regression is a linear approach to modelling the relationship between a dependent variable and one or more independent variables.
  The case of one independent variable is called **simple linear regression** ; for more than one, the process is called **multiple linear regression**
-
+<br>
 **In this particular notebook**,
 We are predicting the prices of houses using different independent variables like No. of Rooms, Area Population, etc.
 
